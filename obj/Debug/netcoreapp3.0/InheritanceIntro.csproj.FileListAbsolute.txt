@@ -1,0 +1,11 @@
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\bin\Debug\netcoreapp3.0\InheritanceIntro.exe
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\bin\Debug\netcoreapp3.0\InheritanceIntro.deps.json
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\bin\Debug\netcoreapp3.0\InheritanceIntro.runtimeconfig.json
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\bin\Debug\netcoreapp3.0\InheritanceIntro.runtimeconfig.dev.json
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\bin\Debug\netcoreapp3.0\InheritanceIntro.dll
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\bin\Debug\netcoreapp3.0\InheritanceIntro.pdb
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\obj\Debug\netcoreapp3.0\InheritanceIntro.csprojAssemblyReference.cache
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\obj\Debug\netcoreapp3.0\InheritanceIntro.AssemblyInfoInputs.cache
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\obj\Debug\netcoreapp3.0\InheritanceIntro.AssemblyInfo.cs
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\obj\Debug\netcoreapp3.0\InheritanceIntro.dll
+C:\Users\Shirish\Projects\workspace\InheritanceIntro\obj\Debug\netcoreapp3.0\InheritanceIntro.pdb
